@@ -2,7 +2,6 @@ package org.gabrielbauer.crudusuario.business;
 
 import org.gabrielbauer.crudusuario.infrastructure.entitys.Usuario;
 import org.gabrielbauer.crudusuario.infrastructure.repository.UsuarioRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
